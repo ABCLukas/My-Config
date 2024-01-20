@@ -1,10 +1,1 @@
-[[language]]
-name = "html"
-indent = { tab-width = 2, unit = "  "}
-language-server = {command = "emmet-ls", args = ["--stdio"] }
-formatter = { command = "emmet-ls" , args = ["--stdin"] }
 
-[[language]]
-name = "c"
-language-server = { command = "clangd", args = [] }
-formatter = { command = "clang-format", args = ["--stdin"] }
