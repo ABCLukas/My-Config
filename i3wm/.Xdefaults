@@ -45,4 +45,4 @@ URxvt.perl-ext-common: 	matcher
 URxvt.letterSpace: 	-1
 URxvt.font: 		9x15
 URxvt*geometry:		80x30
-URxvt.font:		xft:bitstream Vera Sans Mono:size=9
+URxvt.font:		xft:bitstream Vera Sans Mono:bold:size=9
